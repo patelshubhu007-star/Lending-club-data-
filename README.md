@@ -1,1 +1,1 @@
-# Lending-club-data-
+# Lending-club-data-This project presents a business performance analysis using a visual dashboard that evaluates sales, profit, and quantity sold across U.S. states and product categories. The analysis highlights top-performing regions and products, identifies revenue concentration risks, and uncovers opportunities for strategic improvement. Insights show strong performance from a few key products and states, emphasizing the need for diversification and data-driven decision-making.
